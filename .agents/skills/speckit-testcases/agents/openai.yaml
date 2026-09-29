@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec Kit Test Cases"
+  short_description: "Generate traceable QA and SIT test cases"
+  default_prompt: "Use $speckit-testcases to generate traceable test-case suites for the active feature."
